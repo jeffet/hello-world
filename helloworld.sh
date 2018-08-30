@@ -1,4 +1,1 @@
-#!/usr/bin/env bash
-set -ex
-
-echo "hello world"
+#! /usr/bin/env bash
